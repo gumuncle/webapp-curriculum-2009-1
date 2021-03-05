@@ -2,7 +2,7 @@ name := "webapp-curriculum-2009-1"
 
 version := "1.0"
 
-scalaVersion := "2.12.7"
+scalaVersion := "2.12.10"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.5" % "test"
 
